@@ -234,6 +234,7 @@ header .container {
 }
 .btn-close,
 .btn-close:hover {
+  margin: 2em auto;
   background-color: #52A8FF;
   color: #DEE2E7
 }
