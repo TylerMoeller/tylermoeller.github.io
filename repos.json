@@ -1,148 +1,148 @@
 {
-  "repositories": [
-    {
-      "name": "Random Quote Machine",
-      "id": "repoModal1",
-      "screenshot": "https://tylermoeller.github.io/random-quote-machine/img/screenshot.jpg",
-      "alt-text": "A screenshot of a Random Quote Machine Website built by Tyler Moeller",
-      "url": "http://tylermoeller.github.io/random-quote-machine",
-      "description": "A website that provides random quotes from the <a href=\"forismatic.com/en/api/\">Forismatic API</a>.",
-      "created": "November 22, 2015",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "Bootstrap CSS"
-      ]
-    },
-    {
-      "name": "Tic-Tac-Toe",
-      "id": "repoModal2",
-      "screenshot": "https://tylermoeller.github.io/tic-tac-toe/assets/img/screenshot.jpg",
-      "alt-text": "A screenshot of a Tic-Tac-Toe Website built by Tyler Moeller",
-      "url": "https://tylermoeller.github.io/tic-tac-toe",
-      "description": "Tic-Tac-Toe in JavaScript with basic AI, making it challenging yet beatable.",
-      "created": "March 16, 2016",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "Bootstrap CSS"
-      ]
-    },
-    {
-      "name": "Twitch.tv API Example",
-      "id": "repoModal3",
-      "screenshot": "https://tylermoeller.github.io/twitchtv-json-api-example/screenshot.jpg",
-      "alt-text": "A screenshot of a website that uses the Twitch.TV API built by Tyler Moeller",
-      "url": "https://tylermoeller.github.io/twitchtv-json-api-example",
-      "description": "An example of using the Twitch.tv API to get information about specific channels.",
-      "created": "November 22, 2015",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "Materialize CSS"
-      ]
-    },
-    {
-      "name": "Simon Says",
-      "id": "repoModal4",
-      "screenshot": "https://tylermoeller.github.io/simonsays/img/screenshot.jpg",
-      "alt-text": "A screenshot of a Simon Says Website built by Tyler Moeller",
-      "url": "https://tylermoeller.github.io/simonsays",
-      "description": "A game of Simon Says, written in JavaScript.",
-      "created": "March 19, 2016",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "Bootstrap CSS"
-      ]
-    },
-    {
-      "name": "Wikipedia Search Viewer",
-      "id": "repoModal5",
-      "screenshot": "https://tylermoeller.github.io/WikipediaSearchViewer/screenshot.jpg",
-      "alt-text": "A screenshot of a Website built by Tyler Moeller that lets you search Wikipedia",
-      "url": "https://tylermoeller.github.io/WikipediaSearchViewer",
-      "description": "An example of using the WikiMedia API to search for Wikipedia Articles.",
-      "created": "February 26, 2016",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "Materialize CSS"
-      ]
-    },
-    {
-      "name": "NodeSchool Workshops Completed",
-      "id": "repoModal6",
-      "screenshot": "https://github.com/TylerMoeller/nodeschool/raw/master/learnyounode/learnyounode.png",
-      "alt-text": "A screenshot of the Node.js learnyounode workshop completed by Tyler Moeller",
-      "url": "https://github.com/TylerMoeller/nodeschool",
-      "description": "A collection of answers for the NodeSchool workshops I have completed so far. I am continuing to finish new exercises regularly and help others do the same in regular NodeSchool meetups.",
-      "created": "Oct 18, 2015",
-      "langs": [
-        "Node.js",
-        "JavaScript",
-        "Express.js",
-        "Pug (Jade)"
-      ]
-    },
-    {
-      "name": "Current Weather in Any City",
-      "id": "repoModal7",
-      "screenshot": "https://tylermoeller.github.io/local-weather-app/assets/img/screenshot.jpg",
-      "alt-text": "A screenshot of a local weather Website built by Tyler Moeller",
-      "url": "https://tylermoeller.github.io/local-weather-app",
-      "description": "An example of using the Weather Underground API to get current weather conditions for any city.",
-      "created": "September 27, 2015",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "jQuery-UI",
-        "Bootstrap CSS"
-      ]
-    },
-    {
-      "name": "Pomodoro Timer",
-      "id": "repoModal8",
-      "screenshot": "https://tylermoeller.github.io/pomodoro-timer/screenshot.png",
-      "alt-text": "A screenshot of a Pomodor Session Timer Website built by Tyler Moeller",
-      "url": "https://tylermoeller.github.io/pomodoro-timer",
-      "description": "A pomodoro timer for tracking your <a href=\"https://en.wikipedia.org/wiki/Pomodoro_Technique\">pomodoro sessions</a>!",
-      "created": "October 1, 2015",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "Bootstrap CSS"
-      ]
-    },
-    {
-      "name": "Calculator",
-      "id": "repoModal9",
-      "screenshot": "https://tylermoeller.github.io/js-calculator/assets/img/screenshot.png",
-      "alt-text": "A screenshot of a JavaScript Calculator Website built by Tyler Moeller",
-      "url": "https://tylermoeller.github.io/js-calculator",
-      "description": "A JavaScript calculator.",
-      "created": "October 17, 2015",
-      "langs": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "jQuery",
-        "Bootstrap CSS"
-      ]
-    }
-  ]
+	"repoList": [
+		{
+			"altText": "A screenshot of a Random Quote Machine Website built by Tyler Moeller",
+			"created": "November 22, 2015",
+			"description": "A website that provides random quotes from the <a href=\"forismatic.com/en/api/\">Forismatic API</a>.",
+			"id": "repoModal1",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Bootstrap CSS"
+			],
+			"name": "Random Quote Machine",
+			"screenshot": "https://tylermoeller.github.io/random-quote-machine/img/screenshot.jpg",
+			"url": "http://tylermoeller.github.io/random-quote-machine"
+		},
+		{
+			"altText": "A screenshot of a Tic-Tac-Toe Website built by Tyler Moeller",
+			"created": "March 16, 2016",
+			"description": "Tic-Tac-Toe in JavaScript with basic AI, making it challenging yet beatable.",
+			"id": "repoModal2",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Bootstrap CSS"
+			],
+			"name": "Tic-Tac-Toe",
+			"screenshot": "https://tylermoeller.github.io/tic-tac-toe/assets/img/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/tic-tac-toe"
+		},
+		{
+			"altText": "A screenshot of a website that uses the Twitch.TV API built by Tyler Moeller",
+			"created": "November 22, 2015",
+			"description": "An example of using the Twitch.tv API to get information about specific channels.",
+			"id": "repoModal3",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Materialize CSS"
+			],
+			"name": "Twitch.tv API Example",
+			"screenshot": "https://tylermoeller.github.io/twitchtv-json-api-example/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/twitchtv-json-api-example"
+		},
+		{
+			"altText": "A screenshot of a Simon Says Website built by Tyler Moeller",
+			"created": "March 19, 2016",
+			"description": "A game of Simon Says, written in JavaScript.",
+			"id": "repoModal4",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Bootstrap CSS"
+			],
+			"name": "Simon Says",
+			"screenshot": "https://tylermoeller.github.io/simonsays/img/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/simonsays"
+		},
+		{
+			"altText": "A screenshot of a Website built by Tyler Moeller that lets you search Wikipedia",
+			"created": "February 26, 2016",
+			"description": "An example of using the WikiMedia API to search for Wikipedia Articles.",
+			"id": "repoModal5",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Materialize CSS"
+			],
+			"name": "Wikipedia Search Viewer",
+			"screenshot": "https://tylermoeller.github.io/WikipediaSearchViewer/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/WikipediaSearchViewer"
+		},
+		{
+			"altText": "A screenshot of the Node.js learnyounode workshop completed by Tyler Moeller",
+			"created": "Oct 18, 2015",
+			"description": "A collection of answers for the NodeSchool workshops I have completed so far. I am continuing to finish new exercises regularly and help others do the same in regular NodeSchool meetups.",
+			"id": "repoModal6",
+			"langs": [
+				"Node.js",
+				"JavaScript",
+				"Express.js",
+				"Pug (Jade)"
+			],
+			"name": "NodeSchool Workshops Completed",
+			"screenshot": "https://github.com/TylerMoeller/nodeschool/raw/master/learnyounode/learnyounode-900x650.png",
+			"url": "https://github.com/TylerMoeller/nodeschool"
+		},
+		{
+			"altText": "A screenshot of a local weather Website built by Tyler Moeller",
+			"created": "September 27, 2015",
+			"description": "An example of using the Weather Underground API to get current weather conditions for any city.",
+			"id": "repoModal7",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"jQuery-UI",
+				"Bootstrap CSS"
+			],
+			"name": "Current Weather in Any City",
+			"screenshot": "https://tylermoeller.github.io/local-weather-app/assets/img/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/local-weather-app"
+		},
+		{
+			"altText": "A screenshot of a Pomodor Session Timer Website built by Tyler Moeller",
+			"created": "October 1, 2015",
+			"description": "A pomodoro timer for tracking your <a href=\"https://en.wikipedia.org/wiki/Pomodoro_Technique\">pomodoro sessions</a>!",
+			"id": "repoModal8",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Bootstrap CSS"
+			],
+			"name": "Pomodoro Timer",
+			"screenshot": "https://tylermoeller.github.io/pomodoro-timer/screenshot.png",
+			"url": "https://tylermoeller.github.io/pomodoro-timer"
+		},
+		{
+			"altText": "A screenshot of a JavaScript Calculator Website built by Tyler Moeller",
+			"created": "October 17, 2015",
+			"description": "A JavaScript calculator.",
+			"id": "repoModal9",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Bootstrap CSS"
+			],
+			"name": "Calculator",
+			"screenshot": "https://tylermoeller.github.io/js-calculator/assets/img/screenshot.png",
+			"url": "https://tylermoeller.github.io/js-calculator"
+		}
+	]
 }
