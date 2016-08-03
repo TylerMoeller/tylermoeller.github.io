@@ -3,7 +3,7 @@
 		{
 			"altText": "A screenshot of a Random Quote Machine Website built by Tyler Moeller",
 			"created": "November 22, 2015",
-			"description": "A website that provides random quotes from the <a href=\"forismatic.com/en/api/\">Forismatic API</a>.",
+			"description": "A website that provides random quotes from the <a href=\"http://forismatic.com/en/api/\">Forismatic API</a>.",
 			"id": "repoModal1",
 			"langs": [
 				"HTML5",
@@ -113,7 +113,7 @@
 			"url": "https://tylermoeller.github.io/local-weather-app"
 		},
 		{
-			"altText": "A screenshot of a Pomodor Session Timer Website built by Tyler Moeller",
+			"altText": "A screenshot of a Pomodoro Session Timer Website built by Tyler Moeller",
 			"created": "October 1, 2015",
 			"description": "A pomodoro timer for tracking your <a href=\"https://en.wikipedia.org/wiki/Pomodoro_Technique\">pomodoro sessions</a>!",
 			"id": "repoModal8",
