@@ -16,6 +16,17 @@ $(document).ready(function () {
     if (key === 27) $('.modal').modal('hide');
   });
 
+  // hide social icon containers when the icon is blocked by ad block
+  if (!$('.fa-twitter').is(':visible')) {
+    $('.fa-twitter').closest('li').css('display', 'none');
+    $('.fa-linkedin').closest('li').css('display', 'none');
+    $('#adblock-message').html(
+      '** <a href="https://www.linkedin.com/in/tylermoeller/">LinkedIn</a> and ' +
+      '<a href="https://twitter.com/tyler_moeller/">Twitter</a>' +
+      ' buttons were blocked by your adblocker.<br><br>'
+    );
+  }
+
   buildRepoGrid();
 });
 

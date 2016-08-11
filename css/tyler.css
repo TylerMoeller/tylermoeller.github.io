@@ -160,14 +160,6 @@ header .container {
 .repo-item img {
   box-shadow: #161719 0 0 2px 2px;
 }
-.octocat:hover {
-  opacity: .5;
-  -webkit-transition: all ease 0.5s;
-  -moz-transition: all ease 0.5s;
-  -ms-transition: all ease 0.5s;
-  -o-transition: all ease 0.5s;
-  transition: all ease 0.5s;
-}
 .carousel-caption {
   bottom: 0;
   left: 0;
@@ -254,6 +246,9 @@ footer a:active,
 footer a.active {
   color: #DEE2E7;
 }
+#adblock-message a {
+  text-decoration: underline;
+}
 .footer-title {
   margin-bottom: 30px;
 }
@@ -268,11 +263,11 @@ footer {
   height: 50px;
   width: 50px;
   border: 2px solid #DEE2E7;
-  border-radius: 100%;
+  border-radius: 50%;
   font-size: 1.5em;
   margin: .25em 0;
 }
-.btn-contact .fa {
+.btn-contact i {
   padding-top: .4em;
 }
 .btn-contact:hover {
