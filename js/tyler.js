@@ -32,7 +32,7 @@ $(document).ready(function () {
 
 // loop through repos.json to build the image grid
 function buildRepoGrid() {
-  $.getJSON('repos.json').done(function (data) {
+  $.getJSON('https://tylermoeller.github.io/repos.json').done(function (data) {
     data.repoList.forEach(function (repo) {
       var langHTML = '';
       repo.langs.forEach(function (lang) {
