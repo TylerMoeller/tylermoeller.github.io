@@ -143,6 +143,22 @@
 			"name": "Calculator",
 			"screenshot": "https://tylermoeller.github.io/js-calculator/assets/img/screenshot.png",
 			"url": "https://tylermoeller.github.io/js-calculator"
+		},
+    {
+			"altText": "A screenshot of a Motivational Poster Generator Website built by Tyler Moeller",
+			"created": "September 9, 2016",
+			"description": "A website that generates random \"Motivational\" posters thanks to the <a href=\"http://forismatic.com/en/api/\">Forismatic</a> and <a href=\"https://unsplash.com/developers/\">Unsplash</a> APIs.",
+			"id": "repoModal10",
+			"langs": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"jQuery",
+				"Materialize CSS"
+			],
+			"name": "Motivational Poster Generator",
+			"screenshot": "https://tylermoeller.github.io/motivational-posters/img/screenshot.jpg",
+			"url": "http://tylermoeller.github.io/motivational-posters"
 		}
 	]
 }
