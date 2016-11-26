@@ -161,9 +161,9 @@
 			"url": "http://tylermoeller.github.io/motivational-posters"
 		},
     {
-			"altText": "A screenshot of an Example nodeSchool Survey built by Tyler Moeller",
+			"altText": "A screenshot of an Example NodeSchool Survey built by Tyler Moeller",
 			"created": "August 4, 2016",
-			"description": "An example survey page, inspired by Google Forms, for reaching out to nodeSchool participants for feedback after a nodeSchool meetup event.",
+			"description": "An example survey page, designed like Google Forms, for reaching out to NodeSchool participants for feedback after a Meetup event. Responses intended for <a href=\"https://www.npmjs.com/package/survey-maker\">survey-maker</a>, a REST-based server for conducting simple surveys.",
 			"id": "repoModal11",
 			"langs": [
 				"HTML5",
@@ -172,7 +172,7 @@
 				"jQuery",
 				"Materialize CSS"
 			],
-			"name": "nodeSchool Survey Example",
+			"name": "NodeSchool Survey Example",
 			"screenshot": "https://tylermoeller.github.io/nodeschool-survey/screenshot.png",
 			"url": "http://tylermoeller.github.io/nodeschool-survey"
 		}
