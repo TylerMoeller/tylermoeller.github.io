@@ -147,7 +147,7 @@
     {
 			"altText": "A screenshot of a Motivational Poster Generator Website built by Tyler Moeller",
 			"created": "September 9, 2016",
-			"description": "A website that generates random \"Motivational\" posters thanks to the <a href=\"http://forismatic.com/en/api/\">Forismatic</a> and <a href=\"https://unsplash.com/developers/\">Unsplash</a> APIs.",
+			"description": "A website that generates random \"Motivational\" posters thanks to the <a href=\"https://en.wikiquote.org/w/api.php\">Wikiquote</a> and <a href=\"https://unsplash.com/developers/\">Unsplash</a> APIs.",
 			"id": "repoModal10",
 			"langs": [
 				"HTML5",
