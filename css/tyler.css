@@ -269,6 +269,8 @@ header .container {
 .modal-content {
   text-align: center;
   background-color: #DEE2E7;
+  max-width: 1200px;
+  margin: 0 auto
 }
 
 .modal-content img {
