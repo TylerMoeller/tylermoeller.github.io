@@ -13,8 +13,8 @@
 				"Bootstrap CSS"
 			],
 			"name": "Random Quote Machine",
-			"screenshot": "https://tylermoeller.github.io/random-quote-machine/img/screenshot.jpg",
-			"url": "http://tylermoeller.github.io/random-quote-machine"
+			"screenshot": "https://tylermoeller.github.io/fccfe/random-quote-machine/img/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/fccfe/random-quote-machine"
 		},
 		{
 			"altText": "A screenshot of a Tic-Tac-Toe Website built by Tyler Moeller",
@@ -29,8 +29,8 @@
 				"Bootstrap CSS"
 			],
 			"name": "Tic-Tac-Toe",
-			"screenshot": "https://tylermoeller.github.io/tic-tac-toe/assets/img/screenshot.jpg",
-			"url": "https://tylermoeller.github.io/tic-tac-toe"
+			"screenshot": "https://tylermoeller.github.io/fccfe/tic-tac-toe/assets/img/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/fccfe/tic-tac-toe"
 		},
 		{
 			"altText": "A screenshot of a website that uses the Twitch.TV API built by Tyler Moeller",
@@ -45,8 +45,8 @@
 				"Materialize CSS"
 			],
 			"name": "Twitch.tv API Example",
-			"screenshot": "https://tylermoeller.github.io/twitchtv-json-api-example/screenshot.jpg",
-			"url": "https://tylermoeller.github.io/twitchtv-json-api-example"
+			"screenshot": "https://tylermoeller.github.io/fccfe/twitchtv-json-api-example/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/fccfe/twitchtv-json-api-example"
 		},
 		{
 			"altText": "A screenshot of a Simon Says Website built by Tyler Moeller",
@@ -61,8 +61,8 @@
 				"Bootstrap CSS"
 			],
 			"name": "Simon Says",
-			"screenshot": "https://tylermoeller.github.io/simonsays/img/screenshot.jpg",
-			"url": "https://tylermoeller.github.io/simonsays"
+			"screenshot": "https://tylermoeller.github.io/fccfe/simonsays/img/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/fccfe/simonsays"
 		},
 		{
 			"altText": "A screenshot of a Website built by Tyler Moeller that lets you search Wikipedia",
@@ -77,8 +77,8 @@
 				"Materialize CSS"
 			],
 			"name": "Wikipedia Search Viewer",
-			"screenshot": "https://tylermoeller.github.io/WikipediaSearchViewer/screenshot.jpg",
-			"url": "https://tylermoeller.github.io/WikipediaSearchViewer"
+			"screenshot": "https://tylermoeller.github.io/fccfe/WikipediaSearchViewer/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/fccfe/WikipediaSearchViewer"
 		},
 		{
 			"altText": "A screenshot of the Node.js learnyounode workshop completed by Tyler Moeller",
@@ -109,8 +109,8 @@
 				"Bootstrap CSS"
 			],
 			"name": "Current Weather in Any City",
-			"screenshot": "https://tylermoeller.github.io/local-weather-app/assets/img/screenshot.jpg",
-			"url": "https://tylermoeller.github.io/local-weather-app"
+			"screenshot": "https://tylermoeller.github.io/fccfe/local-weather-app/assets/img/screenshot.jpg",
+			"url": "https://tylermoeller.github.io/fccfe/local-weather-app"
 		},
 		{
 			"altText": "A screenshot of a Pomodoro Session Timer Website built by Tyler Moeller",
@@ -125,8 +125,8 @@
 				"Bootstrap CSS"
 			],
 			"name": "Pomodoro Timer",
-			"screenshot": "https://tylermoeller.github.io/pomodoro-timer/screenshot.png",
-			"url": "https://tylermoeller.github.io/pomodoro-timer"
+			"screenshot": "https://tylermoeller.github.io/fccfe/pomodoro-timer/screenshot.png",
+			"url": "https://tylermoeller.github.io/fccfe/pomodoro-timer"
 		},
 		{
 			"altText": "A screenshot of a JavaScript Calculator Website built by Tyler Moeller",
@@ -141,8 +141,8 @@
 				"Bootstrap CSS"
 			],
 			"name": "Calculator",
-			"screenshot": "https://tylermoeller.github.io/js-calculator/assets/img/screenshot.png",
-			"url": "https://tylermoeller.github.io/js-calculator"
+			"screenshot": "https://tylermoeller.github.io/fccfe/js-calculator/assets/img/screenshot.png",
+			"url": "https://tylermoeller.github.io/fccfe/js-calculator"
 		},
     {
 			"altText": "A screenshot of a Motivational Poster Generator Website built by Tyler Moeller",
