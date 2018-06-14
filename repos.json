@@ -42,10 +42,11 @@
 				"CSS3",
 				"JavaScript",
 				"jQuery",
-				"Materialize CSS"
+				"Materialize CSS",
+				"Animate CSS"
 			],
 			"name": "Twitch.tv API Example",
-			"screenshot": "https://tylermoeller.github.io/fccfe/twitchtv-json-api-example/screenshot.jpg",
+			"screenshot": "https://tylermoeller.github.io/fccfe/twitchtv-json-api-example/img/screenshot.jpg",
 			"url": "https://tylermoeller.github.io/fccfe/twitchtv-json-api-example"
 		},
 		{
